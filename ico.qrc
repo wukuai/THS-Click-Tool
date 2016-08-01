@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>trayIcon.png</file>
+        <file>tubiao.ico</file>
+    </qresource>
+</RCC>
